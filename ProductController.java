@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.priya.springweb.entities.Product;
-import com.priya.springweb.repos.ProductRepository;
+import com.himanshu.springweb.entities.Product;
+import com.himanshu.springweb.repos.ProductRepository;
 
 @RestController
 public class ProductController {
